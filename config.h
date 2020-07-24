@@ -5,7 +5,7 @@
  *
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
-static char *font = "Roboto Mono:style=regular:pixelsize=12";
+static char *font = "Fira Code:style=Regular:pixelsize=12";
 static int borderpx = 15;
 
 /*
